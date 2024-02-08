@@ -8,6 +8,7 @@
 
 ## 🛠  My Tech Stack
 ### *Front End:*
+
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux%20-%2320232a.svg?&style=flat-square&logo=redux&logoColor=CAB0F4)
