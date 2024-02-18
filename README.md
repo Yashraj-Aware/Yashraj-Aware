@@ -3,7 +3,7 @@
 # Hi there 👋, I'm Yashraj! 
 
 
-- I'm currently a UnderGraduate Engineering Immersive student at VIshwakarma Institute of Information Technology 🏛.
+- I'm currently a UnderGraduate Engineering Immersive student at Vishwakarma Institute of Information Technology 🏛.
 -  I'm a passionate learner. I love to learn hard material and teach it to others 💡.
 -  I love to learn new technologies and use them to solve problems ✨.
 
